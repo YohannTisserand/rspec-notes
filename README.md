@@ -1,3 +1,3 @@
 # Rspec-notes
 
-My notes about Udemy rspec course
+My notes about Udemy RSpec course
