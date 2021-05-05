@@ -1,1 +1,3 @@
-Rspec-notes
+# Rspec-notes
+
+My notes about Udemy rspec course
